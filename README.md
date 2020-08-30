@@ -1,2 +1,3 @@
 # CLOUD-COMPUTING
 Comparison Report of various CLOUD PLATFORMS
+https://youtu.be/P83YLiDAD88 EC2 INSTANCE CREATION VIDEO
